@@ -1,4 +1,4 @@
-Module {
+Module{
 	name: 'VkoV'
 	description: 'Markov chain manager written in VLang'
 	version: '1.0.0'
