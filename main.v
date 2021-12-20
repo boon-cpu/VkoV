@@ -1,5 +1,3 @@
-module vkov
-
 import rand
 import math
 
